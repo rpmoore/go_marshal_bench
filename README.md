@@ -13,6 +13,7 @@ Currently the following encodings are being compared:
 
 ### Planned
 
+* Message Pack
 * Capnproto
 
 ### Running
